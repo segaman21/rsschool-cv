@@ -36,7 +36,8 @@ Junior Android Developer
 
 ## Education:
 
-2014-2018 Belarusian State University of informatics and radioelectronics
+##### Belarusian State University of informatics and radioelectronics (2014-2018)
+##### Course Android Academy (2021)
 
 ## English:
 
