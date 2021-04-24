@@ -6,8 +6,7 @@
 - ### telegram:[@sega_rudman](https://t.me/sega_rudman)
 
 ## Skills:
-- ### Java
-- ### Kotlin
+Java, Kotlin
 
 ## Code examples:
 
@@ -36,9 +35,9 @@ Junior Android Developer
 
 ## Education:
 
-##### Belarusian State University of informatics and radioelectronics (2014-2018)
-##### Course Android Academy (2021)
+- Belarusian State University of informatics and radioelectronics (2014-2018)
+- Course Android Academy (2021)
 
 ## English:
 
-English level A2
+English level B1
